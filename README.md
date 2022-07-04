@@ -12,3 +12,7 @@ something about sfc's content
 + https://gitea.io/
 + https://gitlab.com/rluna-gitlab/gitlab-ce
 + https://sr.ht/~sircmpwn/sourcehut/
+
+## 开源组织官网等
+[sfconservancy](shttps://sfconservancy.org/)
+[GNU](https://www.gnu.org/)
